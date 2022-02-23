@@ -20,7 +20,7 @@ For the required software and building advice I recommend visiting and donating 
 
 21x Outemu Silver Switches (Personal Preference)
 
-4x Acrylic/MDF Panels 12"x8"
+4x Acrylic/MDF Panels 12"x8"x1/4"(6mm)
 
 Wire 22-30 AWG
 
