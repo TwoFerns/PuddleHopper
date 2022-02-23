@@ -38,3 +38,5 @@ Solder Sucker (optional)
 
 I hope to test out the files myself for Laser Cutting but this prototype I hand cut.
 ![parts](https://user-images.githubusercontent.com/62078998/155261380-8d4e3dcb-02f7-49a4-9d28-12033f4599b4.jpg)
+![pico_gcc_cable_PuddleHopper](https://user-images.githubusercontent.com/62078998/155263839-3e15e371-0936-43e7-9397-f4c7f70ad8cb.png)
+
