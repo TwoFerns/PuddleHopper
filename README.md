@@ -2,9 +2,9 @@
 Raspberry Pico Gamecube Controller
 
 These are the PDF files I used to cut out my PuddleHopper and the list of associated parts that fit inside.
+![PuddleHopper Front](https://user-images.githubusercontent.com/62078998/155259716-d1ab01e2-e93c-4ada-88b3-7a1c7f03f603.jpg)
 ![PuddleHopper Input](https://user-images.githubusercontent.com/62078998/155259706-a223a956-f2a5-468f-bda2-b09077ee7d31.jpg)
 ![PuddleHopper Internals](https://user-images.githubusercontent.com/62078998/155259709-0f34c87a-7c16-461c-928b-615221b9a028.jpg)
-![PuddleHopper Front](https://user-images.githubusercontent.com/62078998/155259716-d1ab01e2-e93c-4ada-88b3-7a1c7f03f603.jpg)
 
 For the required software and building advice I recommend visiting and donating to both Arte (https://github.com/JulienBernard3383279/pico-rectangle) and Crane (https://github.com/Crane1195/DIYB0XX) of Crane's Lab Discord.
 
