@@ -4,8 +4,9 @@ PuddleHopper
 Raspberry Pico Gamecube Controller
 
 These are the PDF files I used to cut out my PuddleHopper and the list of associated parts that fit inside. 
-For the required software and building advice I recommend visiting and donating to both Arte (https://github.com/JulienBernard3383279/pico-rectangle) and Crane (https://github.com/Crane1195/DIYB0XX) of Crane's Lab Discord. 
+For the required software and building advice I recommend visiting and donating to Crane (https://github.com/Crane1195/DIYB0XX) of Crane's Lab Discord. 
 On this latest version of the puddlehopper I am now using Haybox firmware (https://github.com/JonnyHaystack/HayBox) as it pairs nicely with this remapping site (https://remapp.ing/) when using the Rana Digital profile.
+Older versions of Puddlehopper I used Arte's firmware (https://github.com/JulienBernard3383279/pico-rectangle)
 My cost to build was under 100cad each when making 5 in 2025.
 
 Lasercut Material (Approx $60-100)
@@ -52,6 +53,6 @@ Solder Sucker (optional)
 ![PXL_20250523_190015592 MP~2](https://github.com/user-attachments/assets/6bac2464-f54d-4308-a929-8ee44269c47b)
 ![PXL_20250523_185250196 MP~2](https://github.com/user-attachments/assets/6c64c0c3-1706-47d1-bfe4-0a52a5800328)
 ![PXL_20250518_070041889 MP~2](https://github.com/user-attachments/assets/63c18425-c823-49ea-a1de-f5b4589aa9a6)
-![155261380-8d4e3dcb-02f7-49a4-9d28-12033f4599b4](https://github.com/user-attachments/assets/491e6055-3042-4af9-b092-464008724e4f)
 ![rlub](https://github.com/user-attachments/assets/ba5b5456-9f19-4f46-87e0-84d5072653ba)
 ![155264002-53a78f14-795b-4b56-8393-33939a6091dd](https://github.com/user-attachments/assets/8973a1f2-3b06-473c-b9cd-724a76fc0437)
+![155261380-8d4e3dcb-02f7-49a4-9d28-12033f4599b4](https://github.com/user-attachments/assets/491e6055-3042-4af9-b092-464008724e4f)
